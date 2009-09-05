@@ -1,6 +1,0 @@
-virtual-env/*
-dist/*
-build/*
-docs/_build/doctrees/*
-python-popcorn.egg-info/*
-*.pyc
